@@ -1,0 +1,4 @@
+Bench Assignments(Tejas)-Azure:
+
+Deployment on PaaS using Azure app service:
+https://railwayreservation.azurewebsites.net

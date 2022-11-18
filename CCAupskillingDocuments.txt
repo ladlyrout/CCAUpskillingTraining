@@ -1,0 +1,10 @@
+Case Study Documents:
+
+Training Case Study Documents:https://github.com/ladlyrout/CaseStudyDocuments
+
+Angular: https://github.com/ladlyrout/RailwaySystem
+
+Backend: https://github.com/ladlyrout/RailwaySystem.API
+
+Db Script: https://github.com/ladlyrout/DB-Script
+

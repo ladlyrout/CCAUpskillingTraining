@@ -1,0 +1,9 @@
+Case Study Enhancement:
+
+Case Study Video : https://youtu.be/WGLfhLbb4PM
+
+*Enhancement: 1. If a user who has already confirmed his ticket will not be able to do further payment he will only be able to 
+download the ticket and cancel it.
+
+2. If a user who has cancelled the ticket will not be able to make payment or download the ticket.
+3. User with a pending status will only be able to make payment and download ticket after payment is completed.
